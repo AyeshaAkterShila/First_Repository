@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.main{
+    margin: 0 auto;
+    max-width: 200px;
+    text-align: center;
+    font-size: 0;
+    box-shadow: -2px 2px 8px 0px gray;
+}
+.main:hover{
+    box-shadow: -4px 4px 12px 2px gray;
+}
+.input-box{
+    width: 187px;
+    height: 50px;
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+.btn{
+    height: 40px;
+    width: 50px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+.btn-style{
+    background-color: indigo;
+}
